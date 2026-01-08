@@ -1,4 +1,6 @@
 # Practice_llm_agents_and_mcp
+[https://github.com/emarco177/langchain-course/tree/project/hello-world]
+
 
 …or create a new repository on the command line
 echo "# Practice_llm_agents_and_mcp" >> README.md
