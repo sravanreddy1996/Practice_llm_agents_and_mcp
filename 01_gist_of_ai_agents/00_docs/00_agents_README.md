@@ -1,5 +1,7 @@
 * Agent is a software system that uses LLMs as reasoning engine to decide what actions to take, and then execute those actions.
 
+- Action = Tool Call
+
 ![alt text](image.png)
 ![alt text](image-1.png)
 
@@ -9,7 +11,11 @@
 
 ![alt text](image-3.png)
 
+Thought could be Chain-Of-Thought too.
+
 ![alt text](image-4.png)
+
+Acting = Call Tool
 
 ![alt text](image-5.png)
 
